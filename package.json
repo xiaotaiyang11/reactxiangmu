@@ -24,6 +24,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "element-ui": "^2.4.9",
     "jquery": "^3.3.1",
     "mockjs": "^1.0.1-beta3",
     "react-router": "^4.3.1",

@@ -1,0 +1,17 @@
+*{margin:0;padding:0;}
+
+#wrapq img{width:100%;position: relative;opacity: 0.5;}
+#wrapq fieldset{position:absolute;top:30px;width:25%;height:600px;background: #fff;
+border-radius: 20px;right:600px;
+}
+#wrapq fieldset lengend{margin-left:135px;font-size:30px;color: #999;}
+#wrapq fieldset span{font-size:25px;color: #ccc;}
+#xing{width:300px;height:50px;border-radius: 20px;border:0;border:1px solid #ccc;
+margin-top:60px;
+}
+#nian{width:300px;height:50px;border-radius: 20px;border:0;border:1px solid #ccc;
+    margin-top:60px;}
+#zuo{width:300px;height:50px;border-radius: 20px;border:0;border:1px solid #ccc;
+        margin-top:60px;}
+#ton{width:300px;height:50px;border-radius: 20px;background: #ccc;border:0;font-size:20px;
+margin-top:60px;color: #666;text-align: center;margin-left:50px;}

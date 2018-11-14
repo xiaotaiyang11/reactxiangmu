@@ -1,0 +1,26 @@
+.contentWrap{background:#f1f1f1;padding-bottom: 50px;overflow: hidden;}
+.content{width:990px;margin: 20px auto;overflow: hidden;}
+.secLeft{float: left;width:748px;}
+.secRight{float: left;background:#fff;margin-left:10px;width:228px;border: 1px solid #e3e3e3;}
+.shequtop{overflow: hidden;line-height:34px;padding-bottom: 16px;border-bottom:1px solid #e3e3e3;}
+.shequtop p{float: left;font-size: 12px;color:#666666;}
+.shequtop Button{float: right;}
+.xiangLun{background: #fff;padding: 20px 30px;border:1px solid #e3e3e3;}
+.shequxiangqing{margin-top:15px;}
+.shequxiangqing h4{line-height:36px;color:#333333;font-size: 26px;}
+.shequxiangqing>p span{float: right;}
+.shequxiangqing>p{font-size: 10px;color:#8c8c8c;}
+.shequxiangqing .neirongs{margin-top:14px;padding-bottom: 52px;}
+.shequxiangqing .neirongs p{font-size: 16px;color:#333;line-height:28px;margin-bottom: 0;}
+.someDiffshezhi p {float: right;font-size: 12px;color:#666;}
+.someDiffshezhi p span{margin-left:28px;}
+.someDiffshezhi p span i{margin-right:5px;font-size: 14px;}
+.someDiffshezhi p span:hover{color:red;}
+.someDiffshezhi >a {font-size: 14px;}
+.huifupinglun {overflow: hidden;margin-top:20px;padding:20px 0;background:#fff;border:1px solid #e3e3e3;}
+.huifupinglun textarea{margin: 0 20px;}
+.huifupinglun h3{border-left:4px solid skyblue;padding: 0 20px;}
+.huifupinglun textarea{width:708px;height:192px;margin-top: 15px;}
+.huifupinglun Button{float: right;margin-right: 20px;margin-top:10px;}
+.huifupinglun input{margin-left:20px;}
+
