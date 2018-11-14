@@ -23,7 +23,10 @@ class App extends Component {
                     <Route path="/register" component={Register}></Route>
                     <Route path="/login" component={Login}></Route>
                     <Route path="/search" component={Search}></Route>
-                    <Route path="/person" component={Person}></Route>
+                    <Route path="/person" component={Person}>
+                    
+                    </Route>
+                   
                     <Route path="/detail" component={Detail}></Route>
                     <Redirect to="/home"/>
                 </Switch>

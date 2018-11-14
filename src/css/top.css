@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0
+}
+
+ul li{
+    list-style: none
+}
+
+.top{
+    width:100%;
+    height:30px;
+    background: #3a9bf5;
+    border-top: 1px solid #f587a3;
+
+}
+
+
+.top ul{
+    width:990px;
+    height:30px;
+    margin: 0 auto;
+   
+    display: flex;
+    position: relative;
+    font-size: 12px;
+    line-height: 30px
+}
+
+.top ul li:nth-child(2){
+    position: absolute;
+    right: 50px;
+}
+.top ul li:nth-child(3){
+    position: absolute;
+    right: 0px;
+}
+.top ul li a{
+    color:#fff;
+}
+.sou{
+    height:48px;
+    width:100%;
+    
+}
+.sou .search{
+    margin: 0 auto;
+    
+    width:990px;
+    height:48px;
+    position: relative;
+    line-height: 48px;
+    
+}
+.sou .search p{
+    display: inline-block;
+    font-size:20px;
+}
+
+.sou .search p i{
+    color:#3a9bf5;
+    margin-right:10px; 
+     
+}
+
+
+.sou .search span{
+    margin-left:680px
+   
+    
+}
+
+
+
+
+.meau{
+    color:#ccc;
+    width:100%;
+    height:40px;
+    border-bottom: 1px solid #ccc;
+    
+} 
+ .meau ul{
+     border-top: 1px solid #ccc;
+    margin: 0 auto;
+    width:990px;
+    height:40px; 
+   
+    display: flex;
+    justify-content: space-around;
+}
+.meau ul li{
+    list-style: none;
+    line-height: 40px;
+}
+.meau ul li a{
+    color:#666666
+}
+
+.sea{
+    width:200px;
+    height:32px;
+    border: 1px solid #000;
+    position: absolute;
+    top:10px;
+    right: 0;
+    padding:0 5px;
+}
+.sea input{
+    width:120px;
+    height:30px;
+   position: absolute;
+   top:0;
+   right:70px;
+   border: 0;
+   outline: none
+
+
+}
+.sea i{
+  
+   position: absolute;
+   top:5px;
+   right: 5px;
+   font-size: 20px;
+
+
+}

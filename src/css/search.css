@@ -1,0 +1,41 @@
+ .wrapsearch{
+    width:100%;
+    height:600px;
+   background: #f1f1f1
+
+}
+.searches{
+    width:990px;
+    
+
+    margin: 0 auto;
+    background: #fff;
+
+}
+.searches #ipt{ 
+   margin-left: 100px;
+   margin-top: 30px;
+   width:600px;
+   height:35px;
+   margin-bottom: 50px;
+}
+.searches button{
+    margin-left: 20px;
+}
+.searchList li{
+   margin-left:100px;
+   margin-right: 100px;
+    height:80px;
+    
+    border-bottom:1px solid #ccc;
+    
+}
+.searchList li p{
+    font-size:20px;
+}
+.searchList li span{
+    padding-right: 10px;
+}
+.searchList li span i{
+    padding-right: 5px;
+}

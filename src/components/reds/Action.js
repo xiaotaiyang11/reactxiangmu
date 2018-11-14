@@ -4,6 +4,12 @@ var Action={
             type:'USERNAME',
             text:text
         }
+    },
+    searchItem(str){
+        return{
+            type:"SEARCH",
+            text:str
+        }
     }
 }
 

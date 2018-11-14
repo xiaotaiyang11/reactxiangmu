@@ -1,0 +1,97 @@
+.wrapcontent{
+    width:100%;
+    height:665px;
+    background: #f1f1f1;
+    position: relative;
+}
+
+
+.wrapdiv{
+    position: relative;    
+    height:665px;
+    width:990px; 
+    margin: 0 auto;
+   
+   
+    
+}
+.wraphui{
+    width:750px;
+    height:665px;
+    background: #fff;
+    float: left;
+    
+}
+ .aside{
+    width:220px;
+    float: left; 
+   
+} 
+ .wrapdiv .topic{
+    
+  margin-left: 10px;
+  
+   
+    
+    /* border-bottom: 1px solid #eeeeee; */
+
+    
+
+}
+
+.wrapdiv .topic li{
+    font-size: 15px;
+    color:#333333;  
+    padding:10px 10px;
+    border-bottom: 1px solid #eeeeee;
+    height:88px;
+}
+.ant-pagination {
+    margin-left:110px; 
+}
+.wrapdiv .topic li p{
+    font-size:20px;
+}
+.wrapdiv .topic li span{
+    padding-right:10px;
+}
+.wrapdiv .topic li span i{
+    padding-right:5px;
+}
+.wrapdiv .reply li{
+    font-size: 15px;
+    color:#333333;  
+    padding:10px 10px;
+    border-bottom: 1px solid #eeeeee;
+    height:120px;
+}
+
+.wrapdiv .reply li em{
+    font-style: normal;
+    display: block;
+    margin-top: -20px
+}
+.wrapdiv .reply li p{
+    width:700px;
+    height:40px;
+    background: #f1f1f1;
+    line-height: 40px;
+    padding-left: 30px;
+    margin-top: 20px;
+    /* font-style: normal;
+    display: block;
+    margin-top: -20px */
+}
+.page{
+    width:750px;
+   margin-left: 300px;
+}
+.page li{
+    width:30px;
+    height:30px;  
+    border:1px solid #333333;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    float: left;
+}
