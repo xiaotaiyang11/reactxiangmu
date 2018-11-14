@@ -18,5 +18,8 @@ var Reducer=function (state,action) {
             return state;
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 524d526ed5f8065fa9167ead00a13257086e92ef
 export default Reducer;
