@@ -10,9 +10,12 @@ var Action={
             type:'PINGLUN',
             text:ping
         }
+    },
+    getList(data){
+        return{
+            type:"GETLIST",
+            text:data
+        }
     }
 }
-
-
-
 export default Action;
