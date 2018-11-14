@@ -4,6 +4,12 @@ var Action={
             type:'USERNAME',
             text:text
         }
+    },
+    getList(data){
+        return{
+            type:"GETLIST",
+            text:data
+        }
     }
 }
 

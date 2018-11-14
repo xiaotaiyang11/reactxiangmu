@@ -12,6 +12,7 @@ import Person from './components/person';
 import Detail from './components/detail';
 import './App.css';
 
+
 class App extends Component {
   render() {
     return (
@@ -24,7 +25,7 @@ class App extends Component {
                     <Route path="/login" component={Login}></Route>
                     <Route path="/search" component={Search}></Route>
                     <Route path="/person" component={Person}></Route>
-                    <Route path="/detail" component={Detail}></Route>
+                    <Route path="/detail/:id" component={Detail}></Route>
                     <Redirect to="/home"/>
                 </Switch>
             </div>
