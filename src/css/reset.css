@@ -1,0 +1,30 @@
+ul,li{list-style: none;}
+*{margin:0;padding:0;}
+#wrap1{width:100%;height:62px;background: #a79cd7;}
+nav{width:950px;margin:0 auto;height:62px;}
+nav h1{float: left;margin-top:18px;}
+nav .oul{float: right;height:62px;line-height:62px;}
+nav .oul li{float: left;color: #fff;font-size:14px;margin-left:30px;}
+#banner img{width:100%;position: relative;}
+.kuai{width:380px;height:460px;background: rgba(0,0,0,.3);position: absolute;
+  top:120px;right:320px;border-radius: 20px;
+}
+.kuai .top{color: #fff;height:56px;}
+.kuai .top h2{float: left;color: #fff;margin-left:20px;margin-top:16px;}
+.kuai .top span{float: right;color: #fff;margin-top:20px;margin-right:20px;}
+#put5{margin-left:20px;border:0;width:340px;height:50px;margin-top:40px;
+  border-radius: 20px;
+}
+#put6{margin-left:20px;border:0;width:340px;height:50px;margin-top:30px;
+    border-radius: 20px;
+}
+.kuai p{margin-left:270px;margin-top:30px;}
+#btn2{border:0;width:325px;height:50px;margin-left:20px;border-radius: 20px;
+  margin-top:30px;font-size:20px;color: #fff;background: #2e97ff;
+}
+#wrap2{width:100%;height:100px;background: #252525;margin-top:-5px;}
+footer{width:950px;margin:0 auto;}
+footer img{height:50px;}
+footer p{color: #fff;margin-left:-10px;margin-bottom: 10px;margin-top:10px;}
+
+footer ul li{float: left;margin-left:250px;}
