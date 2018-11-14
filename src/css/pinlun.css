@@ -1,0 +1,23 @@
+*{margin:0;padding:0;}
+.Pingluntop{background: #fff;padding:12px 0;border-bottom:1px solid #e3e3e3;margin-top:10px;}
+.Pingluntop span{font-size: 14px;color:#333;}
+.Pingluntop>b{font-size: 14px;float:right;font-size: 12px;color:#8c8c8c;}
+/* .pinglunlist{padding:15px 0;} */
+.pinglunlist dl{overflow: hidden;}
+.pinglunlist dl dt{float: left;line-height:74px;margin-right:16px;}
+.pinglunlist dt h1 img{width:42px;height:42px;border-radius: 50%;}
+/* .pinglunlist div>p {text-align: right;} */
+.pinglunlist div>p i{margin: 0 10px;}
+.pinglunlist dd{border-bottom: 1px solid #e3e3e3;float: left;width:628px;}
+.pinglunlist dd div>h5{font-size: 18px;color:#333;line-height:32px;margin-bottom: 0;display: inline-block;}
+.pinglunlist dd div>span{display: inline-block;width:30px;line-height:16px;margin-left:10px;text-align: center;color:#fff;background:#54c4fe;}
+.pinglunlist dd div>b{font-weight: 100;float: right;color:#333;line-height:32px;}
+.pinglunlist dd>p{font-size: 18px;line-height: 42px;color:#666666;} 
+.pinglunlist .pingx{text-align: right;}
+.pinglunlist .pingx i{display: inline-block;line-height:26px;margin-left:10px;}
+.pinglunlist .pingx i:hover{color:red;}
+.pinglunlist textarea{height:100px;width:628px;border:1px solid #e3e3e3;}
+.pinglunlist Button{float: right;}
+.pinglunlist .wenbenss{display: none;}
+.currenthui{background:#ccc;border-radius: 5px;text-align: left;}
+.currenthui>p{text-align: left;font-size: 14px;margin-left:10px;}

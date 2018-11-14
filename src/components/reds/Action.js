@@ -4,6 +4,12 @@ var Action={
             type:'USERNAME',
             text:text
         }
+    },
+    pinglun(ping){
+        return{
+            type:'PINGLUN',
+            text:ping
+        }
     }
 }
 
